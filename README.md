@@ -1,5 +1,7 @@
-# 2021 CCP (Creative Challenger Program)
-## 데이터 전처리부터 회귀 분석 가중치 도출 및 결과까지
-### subway practice: e
-### kt bigsight: e
-### kt raw data: e
+## 2021 CCP (Creative Challenger Program)
+
+### 연구를 위한 기초 다지기부터 최종 결과물의 완성까지
+
+#### *practice* : 시도별 인구수 데이터, 지하철 승하차 데이터 분석 및 지도 활용 연습
+#### *kt bigsight* : 서울시 주요 대학 인근 행정동 기준의 소비 및 인구수 특성 분석
+#### *kt raw data* : 데이터 전처리, 크롤링, 회귀 분석을 이용한 가중치 도출과 결과 예측
